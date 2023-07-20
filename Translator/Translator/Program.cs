@@ -3,7 +3,7 @@ using Newtonsoft.Json;
 using System.Net;
 using System.Text;
 
-string key = "3ba53d03b5504427b40ab83e416abe3b";
+string key = "*****";
 string endpoint = "https://api.cognitive.microsofttranslator.com/";
 
 // location, also known as region.
