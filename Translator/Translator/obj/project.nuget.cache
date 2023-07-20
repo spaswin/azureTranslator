@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xmqmve6tybfquAirjSxRR2ZS1KlvEn8mvYN0rVOYNhXrzpO/lyP3ky3VnQz6LOD05/Ce13J8RsFk4IUheAfgVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aswin.parameswaran\\Dev\\Azure\\Translator\\Translator\\Translator\\Translator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aswin.parameswaran\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
